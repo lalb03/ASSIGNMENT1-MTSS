@@ -3,4 +3,5 @@ Componenti
 - [processori](./componenti/processori.md)
 - [schede_madri](./componenti/schede_madri.md)  
 Periferiche  
+- [mouse](./periferiche/mouse.md)
 Elettronica Padovana
